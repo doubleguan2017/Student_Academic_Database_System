@@ -23,7 +23,7 @@ LECTURE (CLASSROOM_ID, UOSCODE, SEMESTER, YEAR, CLASS_TIME)
 
 # Functionalities
 The implemented screen flow of the database application
-![app]()
+![app](https://github.com/doubleguan2017/Student_Academic_Database_System/blob/master/workFlow.png?raw=true)
 
 # Requirement and Restriction 
 The requirement and the restriction can be viewed from the Project_des.pdf file.
